@@ -1,4 +1,4 @@
-#👋 Hi, I’m Julek
+# 👋 Hi, I’m Julek
 - 👀 I’m interested in travelling, games, chess and karate ^^
 - 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me: julek@geminidesign.pl
