@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Julek
-- 🌍 38/195
+- 🌍 42/195
 - 🚀 Websites that Work, Look, & Convert
 - 🌱 Improving everyday
 - 📫 How to reach me: julek@stroze.com
